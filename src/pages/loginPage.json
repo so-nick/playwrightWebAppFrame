@@ -1,0 +1,11 @@
+{
+    "homeButton":":text('Home')",
+    "practiceButton":":text('Practice')",
+    "coursesButton":":text('Courses')",
+    "blogButton":":text('Blog')",
+    "contactButton":":text('Contact')",
+    "title": ":text('Test login')",
+    "userNameField": "#username",
+    "passwordField": "#password",
+    "submitButton": "#submit"
+}
